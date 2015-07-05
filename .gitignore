@@ -1,0 +1,6 @@
+# exclude everything except directory foo/bar
+__pycache__/
+.cache/
+.DS_Store
+*.egg-info
+config.ini.template
