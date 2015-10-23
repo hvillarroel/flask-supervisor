@@ -3,4 +3,4 @@ __pycache__/
 .cache/
 .DS_Store
 *.egg-info
-config.ini.template
+config.ini
