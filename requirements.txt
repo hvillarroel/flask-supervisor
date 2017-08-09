@@ -1,0 +1,4 @@
+-e .
+Flask==0.12.2
+Flask-admin==1.5.0
+gunicorn==19.7.1
